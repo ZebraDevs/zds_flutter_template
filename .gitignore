@@ -28,3 +28,5 @@ doc/api/
 
 .fvm/flutter_sdk/
 .fvm/flutter_sdk
+
+.DS_Store

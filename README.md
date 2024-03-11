@@ -2,7 +2,19 @@
 
 Template for Flutter apps using zds_flutter package.
 
-`Note: This package version may not work on the newest versions of Flutter (<3.16.0). We recommend Flutter SDK 3.13.1 until these bugs are fixed.`
+### Versioning
+
+For Flutter >3.16
+
+```
+zds_flutter: ^1.1.0
+```
+
+For Flutter 3.0>3.13
+
+```
+zds_flutter: ^1.0.1
+```
 
 ## Contributing
 
