@@ -26,7 +26,8 @@ doc/api/
 .flutter-plugins
 .flutter-plugins-dependencies
 
-.fvm/flutter_sdk/
-.fvm/flutter_sdk
-
 .DS_Store
+
+# FVM Version Cache
+.fvm/
+.fvmrc
